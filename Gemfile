@@ -2,6 +2,7 @@ source :rubygems
 
 gemspec
 
+gem 'dispatch-rider', path: "../dispatch-rider"
 gem 'activejob'
 
 gem 'bundler'
