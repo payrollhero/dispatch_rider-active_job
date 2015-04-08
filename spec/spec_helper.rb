@@ -1,4 +1,3 @@
 require 'rspec'
-require 'dispatch_rider/active_job/version'
+require 'dispatch_rider/active_job'
 
-include DispatchRider::ActiveJob
